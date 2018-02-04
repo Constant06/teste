@@ -1,8 +1,9 @@
 .bienvenue
 {
 	position: absolute;
-	color:red;
+	color:green;
 	font-family: "Lemon/Milk"
-	width:100%;
-	text-align: center;
+	top:50%;
+	
+	
 }
